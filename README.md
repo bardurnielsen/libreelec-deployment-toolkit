@@ -2,8 +2,8 @@
 
 ![Repo Size](https://img.shields.io/github/repo-size/bardurnielsen/libreelec-deployment-toolkit)
 ![Last Commit](https://img.shields.io/github/last-commit/bardurnielsen/libreelec-deployment-toolkit)
-![License](https://img.shields.io/badge/license-Custom-blue)
-![Status](https://img.shields.io/badge/status-Production-green)
+![License](https://img.shields.io/github/license/bardurnielsen/libreelec-deployment-toolkit)
+![Status](https://img.shields.io/badge/status-Production-brightgreen)
 ![Made for LibreELEC](https://img.shields.io/badge/Made%20for-LibreELEC-orange?style=flat-square&logo=kodi)
 ![ShellCheck](https://github.com/bardurnielsen/libreelec-deployment-toolkit/actions/workflows/validate-scripts.yml/badge.svg)
 
@@ -157,5 +157,6 @@ Feel free to fork, contribute, or open an issue!
 
 ---
 
-## 🔐 PIN: `2737` (default)
-Change this by editing `profiles.xml` before deploying.
+## 🔐 PIN Lock
+Default Kodi lock PIN is `2737` (hashed in `profiles.xml`)
+
