@@ -1,0 +1,23 @@
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Python cache (if used)
+__pycache__/
+*.pyc
+
+# Backup files
+*.tar
+*.zip
+*.bak
+*.tmp
+
+# Logs or debugging
+*.log
+
+# SSH keys (for safety)
+id_rsa
+id_rsa.pub
+
+# System cache folders
+.cache/
