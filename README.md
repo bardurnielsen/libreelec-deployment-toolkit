@@ -5,6 +5,8 @@
 ![License](https://img.shields.io/badge/license-Custom-blue)
 ![Status](https://img.shields.io/badge/status-Production-green)
 ![Made for LibreELEC](https://img.shields.io/badge/Made%20for-LibreELEC-orange?style=flat-square&logo=kodi)
+![ShellCheck](https://github.com/bardurnielsen/libreelec-deployment-toolkit/actions/workflows/validate-scripts.yml/badge.svg)
+
 
 A complete, automated toolkit to remotely configure and clone Raspberry Pi 4 devices running **LibreELEC**.
 
